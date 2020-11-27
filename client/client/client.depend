@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1606439132 source:/media/mostafanabil198/New Volume1/Kolya/4-year/1st-term/network/Assignments/1/client/client/main.cpp
+	<stdio.h>
+	<sys/socket.h>
+	<unistd.h>
+	<stdlib.h>
+	<netinet/in.h>
+	<string.h>
+	<iostream>
+	<arpa/inet.h>
+	<bits/stdc++.h>
+

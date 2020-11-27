@@ -1,0 +1,4 @@
+client_post /index.html localhost 8080
+client_get / localhost 8080
+client_get /index.html localhost 8080
+client_get /test.txt localhost 8080
